@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="256" heigth="256" src="/assets/vue-chartjs.png" alt="vue-chartjs logo">
-</div>
 
 [![npm version](https://badge.fury.io/js/vue-chartjs.svg)](https://badge.fury.io/js/vue-chartjs)
 [![codecov](https://codecov.io/gh/apertureless/vue-chartjs/branch/master/graph/badge.svg)](https://codecov.io/gh/apertureless/vue-chartjs)
